@@ -6,23 +6,24 @@ A collection of browser bookmarklets for accessibility testing and inspection.
 
 ## Installation
 
-### 📥 Download
+### 📥 Download the bookmarks file
 
-Download **[A11Y bookmarks.html](./A11Y%20bookmarks.html)** from this repository.
+1. Click **[A11Y bookmarks.html](./A11Y%20bookmarks.html)** to open the file view.
+2. Click the **Download raw file** button (⬇) in the top-right of the file view.
+3. Save the file somewhere easy to find.
 
 ---
 
 ### 🦊 Firefox
 
-1. Save the downloaded file somewhere easy to find (e.g. your Desktop).
-2. Open the Bookmarks Library:
+1. Open the Bookmarks Library:
    - **Windows/Linux:** `Ctrl` + `Shift` + `O`
    - **macOS:** `⌘` + `Shift` + `O`
    - Or go to **Bookmarks → Manage Bookmarks** in the menu bar.
-3. In the Library window, click **Import and Backup** in the toolbar, then choose **Import Bookmarks from HTML…**
-4. Browse to the downloaded file and click **Open**.
-5. The **A11Y** folder will appear in your Bookmarks Toolbar. If the toolbar isn't visible, right-click the Firefox toolbar area and select **Bookmarks Toolbar → Always Show**.
-6. Navigate to any webpage and click a bookmarklet from the A11Y folder to run it.
+2. In the Library window, click **Import and Backup** in the toolbar, then choose **Import Bookmarks from HTML…**
+3. Browse to the downloaded file and click **Open**.
+4. The **A11Y** folder will appear in your Bookmarks Toolbar. If the toolbar isn't visible, right-click the Firefox toolbar area and select **Bookmarks Toolbar → Always Show**.
+5. Navigate to any webpage and click a bookmarklet from the A11Y folder to run it.
 
 > **Note:** Importing does not overwrite your existing bookmarks — Firefox adds the imported folder alongside whatever you already have.
 
@@ -30,17 +31,16 @@ Download **[A11Y bookmarks.html](./A11Y%20bookmarks.html)** from this repository
 
 ### 🌐 Chrome / Edge / Brave
 
-1. Save the downloaded file somewhere easy to find.
-2. Open the Bookmarks Manager:
+1. Open the Bookmarks Manager:
    - **Windows/Linux:** `Ctrl` + `Shift` + `O`
    - **macOS:** `⌘` + `Shift` + `O`
    - Or go to **⋮ menu → Bookmarks → Bookmark manager**.
-3. Click the **⋮** (three-dot) menu at the top-right of the Bookmark Manager page and choose **Import bookmarks**.
-4. Browse to the downloaded file and click **Open**.
-5. The **A11Y** folder will appear in your Bookmarks Bar. If the bar isn't visible:
+2. Click the **⋮** (three-dot) menu at the top-right of the Bookmark Manager page and choose **Import bookmarks**.
+3. Browse to the downloaded file and click **Open**.
+4. The **A11Y** folder will appear in your Bookmarks Bar. If the bar isn't visible:
    - **Windows/Linux:** `Ctrl` + `Shift` + `B`
    - **macOS:** `⌘` + `Shift` + `B`
-6. Navigate to any webpage and click a bookmarklet from the A11Y folder to run it.
+5. Navigate to any webpage and click a bookmarklet from the A11Y folder to run it.
 
 > ⚠️ **Chrome security note:** Chrome may block bookmarklets pasted directly into the address bar. Always *click* the bookmarklet from the bookmarks bar — do not drag the URL into the address bar to run it.
 

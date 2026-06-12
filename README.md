@@ -84,4 +84,19 @@ No extensions, accounts, or internet connection required for most tools — ever
 
 ---
 
-*Bookmarklets collected for accessibility auditing. No tracking, no servers.*
+## Credits and acknowledgements
+
+The bookmarklets in this collection are the work of talented accessibility practitioners. I did not create them — I have simply gathered them in one place for convenience. My sincere thanks to all the authors.
+
+| Bookmarklet(s) | Author | Source |
+|---|---|---|
+| Look up WCAG Success Criteria | **Ian Lloyd (Lloydi)**, Principal Accessibility Specialist at TetraLogical | [a11y-tools.com](https://a11y-tools.com/blog/2025/08/new-bookmarklet-wcag-lookup-tool/) |
+| Reveal Focus Order, Show focus styles, List images, List links, WTFocus, Viewport Details | **Ian Lloyd (Lloydi)** | [a11y-tools.com/bookmarklets](https://a11y-tools.com/bookmarklets/) |
+| Headings Bookmarklet, Tabindex Bookmarklet, Tables | **Paul J. Adam**, Web & Mobile Accessibility Consultant | [pauljadam.com/bookmarklets](https://pauljadam.com/bookmarklets/) |
+| Landmarks | **Landi Lark, Nick Hoyt, Jon Gunderson** and contributors (Pixo / DRES, University of Illinois) | [accessibility-bookmarklets.org](https://accessibility-bookmarklets.org/) |
+| Highlight autocomplete | **Rachele DiTullio**, Senior Accessibility Engineer | [racheleditullio.com](https://racheleditullio.com/blog/2023/11/autocomplete-accessibility-bookmarklet/) |
+| Contrast Checker | **WebAIM** | [webaim.org](https://webaim.org/resources/contrastchecker/) |
+| Easy Checks headings checker | **W3C Web Accessibility Initiative (WAI)** | [w3.org/WAI/test-evaluate/easy-checks](https://www.w3.org/WAI/test-evaluate/easy-checks/headings/) |
+| Highlight aria-label, aria-labelledby, aria-describedby, aria-controls, aria-invalid, aria-required, autocomplete, for/id, image alternatives | Source unknown — please [open an issue](../../issues) if you know the origin |  |
+
+If you are the author of any bookmarklet listed here and would like to be credited, have corrections, or would prefer your work not be included, please [open an issue](../../issues) or get in touch.
